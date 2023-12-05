@@ -1,0 +1,28 @@
+{
+  "url": "http://127.0.0.1:5000/set",
+  "params": {},
+  "paramsArray": [],
+  "method": "post",
+  "backup": {
+    "postScript": "",
+    "bodySubType": "json",
+    "bodyType": "raw",
+    "rawData": "{\n  \"key\": \"lock\",\n  \"value\": \"Task Name\"\n}"
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "data": {
+    "key": "lock",
+    "value": "Task Name"
+  },
+  "headersArray": [
+    [
+      "769c68d8-24d4-4f3f-a648-cafc3908efef",
+      "Content-Type",
+      "application/json",
+      true,
+      "STRING"
+    ]
+  ]
+}
