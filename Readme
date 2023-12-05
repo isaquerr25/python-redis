@@ -15,8 +15,8 @@ This project demonstrates a simple Flask API with Redis as a backend database, e
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/isaquerr25/server-python-redis
+cd server-python-redis
 ```
 
 ### 2. Start Redis with Docker Compose
